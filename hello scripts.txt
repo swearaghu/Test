@@ -1,0 +1,15 @@
+$ nano hello.sh
+
+#!/bin/bash
+echo "Hello World"
+
+x=3;
+
+# give permision
+$ chmod +x HelloWorld.sh
+
+# run script
+$ ./Helloworld.sh
+
+
+echo "\n x is $x";
